@@ -68,9 +68,10 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet  |   |      |      |  
 
 ### 2022-06-03 News
-- Release MCANet Code (Reimplement)
+- Release MCANet Code (Reimplement, based on deeplabv3+)
 - Release FCNs Code 
-- Release Resnet-50, -152 Code 
+- Release Resnet-50, Resnet-152 Code 
 ```text
 tensorboard 
 ```
+
