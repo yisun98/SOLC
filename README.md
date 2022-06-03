@@ -54,11 +54,6 @@ SOLC
 ```text
 nohup python train.py >> train_deeplabv3.out 2>&1 &
 ```
-### 2022-06-02 News
-- Release Deeplabv3+ Code (sar + opt, 5-channels)
-- Release Learning Strategy Code (step size, gamma)
-- Release Torch-Parser Code
-- Release VGG-19 Code (https://download.pytorch.org/models/vgg19_bn-c79401a0.pth)
 
 |                             策略                             |             模型              | 性能 |      |
 | :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
