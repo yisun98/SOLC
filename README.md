@@ -66,7 +66,9 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 - Release MCANet Code (Reimplement, based on deeplabv3+)
 - Release FCNs Code 
 - Release Resnet-50, Resnet-152 Code 
+- Release SOLC Code (Ours) 
 ```text
 tensorboard 
 ```
+
 
