@@ -44,3 +44,25 @@ SOLC
 │   │     ├── lbl
 │   │     │     ├── NH49E001013_3.tif
 ```
+### 2022-06-02 News
+
+- Release Deeplabv3+ Code (sar + opt, 5-channels)
+- Release Learning Strategy Code (step size, gamma)
+- Release Torch-Parser Code
+- Release VGG19 Code (https://download.pytorch.org/models/vgg19_bn-c79401a0.pth)
+
+```text
+nohup python train.py >> train_deeplabv3.out 2>&1 &
+```
+### 2022-06-02 News
+- Release Deeplabv3+ Code (sar + opt, 5-channels)
+- Release Learning Strategy Code (step size, gamma)
+- Release Torch-Parser Code
+- Release VGG19 Code (https://download.pytorch.org/models/vgg19_bn-c79401a0.pth)
+
+|                             策略                             |             模型              | 性能 |      |
+| :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |      |      |
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False) |     |      |      |                
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False) |   |      |      |   
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet  |   |      |      |  
