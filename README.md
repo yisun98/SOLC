@@ -71,4 +71,9 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 tensorboard 
 ```
 
+### 2022-06-04 News
+- Release SOLC V2 Code 
+- Release Deeplabv3+ Performance
+- Release Predict Code
+
 
