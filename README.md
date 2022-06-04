@@ -57,7 +57,7 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 
 |                             策略                             |             模型              | 总体性能 |  各类别    |
 | :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |      |      |
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |      |
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False) |     |      |      |                
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False) |   |      |      |   
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet  |   |      |      |  
