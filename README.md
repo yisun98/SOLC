@@ -71,9 +71,14 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 tensorboard 
 ```
 
-### 2022-06-04 News
-- Release SOLC V2 Code 
+### 2022-06-04 News SOLC (Ours)
+- Release SOLC Code (based on RGB-D) 
+- Release SOLC V2 Code (based on deeplabv3+) 
 - Release Deeplabv3+ Performance
 - Release Predict Code
+|                             策略                             |             模型              | 总体性能 |  各类别    |
+| :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solc v1 (pretrained=False) |  oa=0.7779,mIoU=0.4275,kappa=0.7047    |      |
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solc v2 (pretrained=False) |      |      |
 
 
