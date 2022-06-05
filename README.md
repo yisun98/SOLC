@@ -58,9 +58,9 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 |                             策略                             |             模型              | 总体性能 |  各类别    |
 | :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |      |
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False) |     |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |      |                
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False) |   |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      |   
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet                    |   |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |      |        
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |      |                
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      |   
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet                        |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |      |        
 
 ### 2022-06-03 News
 - Release MCANet Code (Reimplement, based on deeplabv3+)
