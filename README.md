@@ -73,11 +73,15 @@ tensorboard
 
 ### 2022-06-04 News SOLC (Ours)
 - Release SOLC Code (based on RGB-D) : oa=0.7779,mIoU=0.4275,kappa=0.7047
-- Release SOLC V2 Code (based on deeplabv3+) 
+- Release SOLC V2 Code (based on deeplabv3+): 
 - Release Deeplabv3+ Performance
 - Release Predict Code
          
  
+### 2022-06-05 News SOLC (Ours)
+- Release SOLC Code (based on RGB-D) : oa=0.7779,mIoU=0.4275,kappa=0.7047
+- Release SOLC V2 Code (based on deeplabv3+): oa= 0.7994,mIoU=0.4832,kappa=0.7363
+
 
 
 
