@@ -69,7 +69,7 @@ nohup python train.py >> train_deeplabv3.out 2>&1 &
 - Release SOLC Code (Ours) 
 ```text
 tensorboard 
-```1
+```
 
 ### 2022-06-04 News SOLC (Ours)
 - Release SOLC Code (based on RGB-D) : oa=0.7779,mIoU=0.4275,kappa=0.7047
