@@ -84,7 +84,8 @@ tensorboard
 
 
 ### 2022-06-06 News SOLC (Ours)
+- Release SOLC V7 (successful version, Congratulations!)
+- Retrain Unet, Segnet, and MCANet
 - Retest the performance
-- 
 
 
