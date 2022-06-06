@@ -133,19 +133,19 @@ $ cd SOLC
 ```
 2. Install Environments
 
-   ```shell
+```shell
    $ pip install -r requirements.txt
    $ source activate
-   ```
+```
 3. Dataset
 
-   ```shell
+```shell
    $ python tools/crop_sar.py
    $ python tools/crop_opt.py
    $ python tools/convert_lbl.py
    $ python tools/crop_lbl.py
    $ python tools/split_data.py
-   ```
+```
 4. Training
 
 ```shell
