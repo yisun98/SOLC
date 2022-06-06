@@ -90,18 +90,18 @@ SOLC
 - Release SOLC V7 Code (based on dual-stream deeplabv3+, SAGate and ERFB) (successful version, **Congratulations!**)
 - Retrain Unet, Segnet, and MCANet
 - Retest the performance
-- **Release Our SOLC V7 weights** [weights][baiduyun](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc
-- Release Other model weights
+- **Release Our SOLC V7 weights** solcv7: [baiduyun](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc
+- Release Other model weights others: [baiduyun](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc
 
 ### Performance
 
-|                             策略                             |             模型              | 总体性能 |  各类别    |
+|                             策略                             |             模型              | 总体性能 |  
 | :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |      |
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |      |                
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      |   
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |      | 
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solcv7 (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |      | 
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |                     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solcv7 (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
 
 
 
