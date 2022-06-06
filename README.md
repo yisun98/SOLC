@@ -75,7 +75,8 @@ SOLC
 - Release SOLC V1 Code (based on RGB-D and dual-resnet 50) 
 - Release SOLC V2 Code (based on dual-stream deeplabv3+)
 - Release Deeplabv3+ Performance (Training 7 hours)
-- Release Predict Code 
+- Release Train Code
+- Release Predict/Test Code 
          
 ### 2022-06-05 News SOLC (Ours)
 - Release SOLC V1 Code Performance
