@@ -83,6 +83,8 @@ tensorboard
 - Release SOLC V2 Code (based on deeplabv3+): oa= 0.7994,mIoU=0.4832,kappa=0.7363
 
 
-
+### 2022-06-06 News SOLC (Ours)
+- Retest the performance
+- 
 
 
