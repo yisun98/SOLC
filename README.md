@@ -96,7 +96,7 @@ SOLC
 ### Performance
 
 |                             策略                             |             模型              | 总体性能 |  
-| :----------------------------------------------------------: | :---------------------------: | :--: | ---- |
+| :----------------------------------------------------------: | :---------------------------: | :--: | 
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |                     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      
