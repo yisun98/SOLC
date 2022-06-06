@@ -88,6 +88,7 @@ tensorboard
 - Retrain Unet, Segnet, and MCANet
 - Retest the performance
 - Release Our SOLC V7 weights (https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ password：solc)
+- Release Other model weights
 
 ### Training
 
