@@ -125,6 +125,9 @@ SOLC
 |   mcanet   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |      /               |
 |   solcv7   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
 
+```shell
+Note: 0->background，10->farmland，20->city，30->village，40->water，50->forest，60->road，70->others
+```
 ### Installation
 1. Clone this repo.
 ```shell
