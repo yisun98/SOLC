@@ -93,6 +93,14 @@ SOLC
 - **Release Our SOLC V7 weights** solcv7: [baiduyun](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc
 - Release Other model weights others: [baiduyun](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc
 
+
+### Other stragety
+- 设置合适的空洞卷积膨胀率atrous_rates
+- 余弦退火重启动学习率策略warm up
+- 使用更多的数据增强
+- 使用更强的损失函数（focal loss）或者为类别赋予权重（见tools/class_weight.py） 来解决类别不平衡问题
+
+
 ### Performance
 
 |                             策略                             |             模型              | 总体性能 |  
@@ -147,12 +155,12 @@ tensorboard --logdir=<your_log_dir> --bind_all
 
 ### Test/Predict
 ```shell
-nohup python train.py >> train_<model_name>.out 2>&1 &
+nohup python train.py --model solcv7 --num_classes 8 >> train_<model_name>.out 2>&1 &
 ```
 Please see train.py for details.
 
 ```shell
-python _test.py or python predict.py
+python _test.py or python predict.py --model solcv7 --model-path <model_path>
 ```
 
 
