@@ -119,7 +119,7 @@ SOLC
 
 |    模型    | farmland | city | village | water | forest | road | others | background(ignored) |
 | :--------: | :------: | :--: | :-----: | :---: | :----: | :--: | :----: | :-----------------: |
-| deeplabv3+ |     /     |   /   |     /    |    /   |   /     |   /   |    /    |       /              |
+| deeplabv3+ |     /     |   /   |     /    |    /   |   /     |   /   |    /    | 0.0 |
 |    unet    |    /      |   /   |    /     |    /   |   /     |   /   |    /    |       /              |
 |   segnet   |     /     |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
 |   mcanet   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |      /               |
