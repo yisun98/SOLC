@@ -112,7 +112,7 @@ SOLC
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |                     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)     |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)     |  oa=0.8179,mIoU=0.4296,kappa=0.7352    |     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solcv7 (pretrained=False)     |  oa=0.8222,mIoU=0.4382,kappa=0.7428    |     
 
 
@@ -122,7 +122,7 @@ SOLC
 | deeplabv3+ | 0.7951 | 0.9414 | 0.3928 | 0.7856 | 0.9422 | 0.3504 | 0.0269 | 0.0 |
 |    unet    |    /      |   /   |    /     |    /   |   /     |   /   |    /    |       /              |
 |   segnet   |     /     |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
-|   mcanet   |  0.8320   |   0.8394   |    0.3892     |    0.8177   |    0.9476    |   0.5036   |    0.0169    |      0.0   |
+|   mcanet   |  0.8320/0.6499   |   0.8394/0.6575   |    0.3892/0.3318     |    0.8177/0.6243   |    0.9476/0.8724    |   0.5036/0.2865 |    0.0169/0.0145    |      0.0/0.0   |
 |   solcv7   | 0.8392/0.6505 | 0.9051/0.6880 | 0.3999/0.3337 | 0.7979/0.6035| 0.9425/0.8878 | 0.5251/0.3250 | 0.0192/0.0167 |  0.0/0.0 |
 
 ```shell
