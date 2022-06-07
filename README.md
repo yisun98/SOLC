@@ -112,8 +112,8 @@ SOLC
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | deeplabv3+ (pretrained=False) |  oa=0.8096,mIoU=0.4118,kappa=0.7261    |     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | unet (pretrained=False)       |  oa=0.8207,mIoU=0.3649,kappa=0.7278    |                     
 | epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | segnet (pretrained=False)     |  oa=0.8135,mIoU=0.3841,kappa=0.7159    |      
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
-| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solcv7 (pretrained=False)      |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | mcanet (pretrained=False)     |  oa=0.8388,mIoU=0.3958,kappa=0.7520    |     
+| epoch=40, batch size=16, <br />Random Flip, lr=1e-3, wd=1e-4 | solcv7 (pretrained=False)     |  oa=0.8222,mIoU=0.4382,kappa=0.7428    |     
 
 
 
@@ -123,7 +123,7 @@ SOLC
 |    unet    |    /      |   /   |    /     |    /   |   /     |   /   |    /    |       /              |
 |   segnet   |     /     |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
 |   mcanet   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |      /               |
-|   solcv7   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
+|   solcv7   |  0.8392   |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
 
 ```shell
 Note: 0->background，10->farmland，20->city，30->village，40->water，50->forest，60->road，70->others
