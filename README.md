@@ -123,7 +123,7 @@ SOLC
 |    unet    |    /      |   /   |    /     |    /   |   /     |   /   |    /    |       /              |
 |   segnet   |     /     |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
 |   mcanet   |    /      |   /   |    /     |    /   |    /    |   /   |    /    |      /               |
-|   solcv7   |  0.8392   |   /   |    /     |    /   |    /    |   /   |    /    |       /              |
+|   solcv7   |  0.8392   |   /     |    /     |    /   |    /    |   /   |    /    |       /              |
 
 ```shell
 Note: 0->background，10->farmland，20->city，30->village，40->water，50->forest，60->road，70->others
