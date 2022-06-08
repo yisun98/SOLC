@@ -109,8 +109,14 @@ SOLC
 weight in criterion: [1.0, 0.016682825992096393, 0.12286476797975535, 0.09874940237721894, 0.04047604729817842, 0.015269075073618998, 0.6013717852280317, 0.3362534066400197]
 ```
 
+### 2022-06-08 News 
+- Release More Results
+- Release Plot Code
+
 
 ### SOLC V7 framework
+
+(Drawing...)
 
 
 ### Other stragety
