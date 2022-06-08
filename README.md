@@ -188,23 +188,29 @@ Please see train.py for details.
 python _test.py or python predict.py --model solcv7 --model-path <model_path>
 ```
 
-### Result
+### Result 
+
+```shell
+More results please see [here](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc.
+```
+
+
 
 #### classification_25_21
 
-![image](https://github.com/yisun98/SOLC/img-solc/classification_python_25_21.png)
+![image](https://github.com/yisun98/SOLC/imgs-solc/classification_python_25_21.png)
 
 #### classification_82_10
 
-![image](https://github.com/yisun98/SOLC/img-solc/classification_python_82_10.png)
+![image](https://github.com/yisun98/SOLC/imgs-solc/classification_python_82_10.png)
 
 #### classification_94_2
 
-![image](https://github.com/yisun98/SOLC/img-solc/classification_python_94_2.png)
+![image](https://github.com/yisun98/SOLC/imgs-solc/classification_python_94_2.png)
 
 #### classification_137_15
 
-![image](https://github.com/yisun98/SOLC/img-solc/classification_python_137_15.png)
+![image](https://github.com/yisun98/SOLC/imgs-solc/classification_python_137_15.png)
 
 ### Reference
 
