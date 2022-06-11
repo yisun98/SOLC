@@ -1,4 +1,4 @@
-# SOLC
+# SOLC (We will release our complete code util 6.15!)
 Remote Sensing Sar-Optical Land-use Classfication Pytorch 
 
 ### Source Dataset
