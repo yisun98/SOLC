@@ -1,5 +1,16 @@
-# SOLC (We will release our complete code util 6.15!)
+# SOLC (We have released our complete code !)
 Remote Sensing Sar-Optical Land-use Classfication Pytorch 
+
+If you have any questions, welcome to contact us !
+
+```shell
+Contributors 1: yisun98 - 1957240687@qq.com
+Contributors 2: yiruzzz - 992371522@qq.com
+Contributors 3: Bismarckwzc - 1558908027@qq.com
+Contributors 4: 917596622 - 917596622@qq.com
+
+```
+
 
 ### Source Dataset
 
