@@ -207,9 +207,8 @@ python _test.py or python predict.py --model solcv7 --model-path <model_path>
 
 ### Result 
 
-```shell
-More results please see [here](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc.
-```
+**More results** please see [here](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ)  password：solc.
+
 
 
 
@@ -253,7 +252,7 @@ If the project is helpful to you, please consider citing us.
 @misc{SOLC2022,
   author = {Y. Sun, Y. Zhao, Z. Wang, Y. Fan},
   title = {SOLC},
-  year = {2021},
+  year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/yisun98/SOLC}},
