@@ -1,15 +1,6 @@
 # SOLC (We have released our complete code !)
 Remote Sensing Sar-Optical Land-use Classfication Pytorch 
 
-If you have any questions, welcome to contact us !
-
-```shell
-Contributors 1: yisun98 - 1957240687@qq.com
-Contributors 2: yiruzzz - 992371522@qq.com
-Contributors 3: Bismarckwzc - 1558908027@qq.com
-Contributors 4: 917596622 - 917596622@qq.com
-
-```
 
 
 ### Source Dataset
@@ -241,6 +232,33 @@ More results please see [here](https://pan.baidu.com/s/17DaI3e5alCWq2etOZDW5WQ) 
 ![image](https://github.com/yisun98/SOLC/blob/main/imgs-solc/classification_python_137_15.png)
 
 ### Reference
+
+
+
+### Citation
+
+
+If you have any questions, welcome to contact us !
+
+```shell
+Contributors 1: yisun98 - 1957240687@qq.com
+Contributors 2: yiruzzz - 992371522@qq.com
+Contributors 3: Bismarckwzc - 1558908027@qq.com
+Contributors 4: 917596622 - 917596622@qq.com
+
+```
+
+If the project is helpful to you, please consider citing us.
+```
+@misc{SOLC2022,
+  author = {Y. Sun, Y. Zhao, Z. Wang, Y. Fan},
+  title = {SOLC},
+  year = {2021},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/yisun98/SOLC}},
+}
+```
 
 
 
