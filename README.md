@@ -118,7 +118,8 @@ weight in criterion: [1.0, 0.016682825992096393, 0.12286476797975535, 0.09874940
 
 ### SOLC V7 framework
 
-(Drawing...)
+![image](https://github.com/yisun98/SOLC/blob/main/imgs-solc/DCN.png)
+
 
 
 ### Other stragety
