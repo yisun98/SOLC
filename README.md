@@ -1,7 +1,7 @@
 # SOLC (We have released our complete code !)
 Remote Sensing Sar-Optical Land-use Classfication Pytorch 
 
-
+# 如果该仓库对您有用的话，欢迎star和fork，并提出您的疑问。
 
 ### Source Dataset
 
