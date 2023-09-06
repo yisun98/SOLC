@@ -3,6 +3,11 @@ Remote Sensing Sar-Optical Land-use Classfication Pytorch
 
 # 如果该仓库对您有用的话，欢迎star和fork，并提出您的疑问。尽量在issues中提问，有时间一定回复。
 
+# 提问的人很多，我回复不过来了，如果有需要，大家加群讨论，只讨论SOLC本仓库及相关内容。
+
+![image](https://github.com/yisun98/SOLC/blob/main/imgs-solc/group.png)
+
+
 ### Source Dataset
 
 Refer to https://github.com/AmberHen/WHU-OPT-SAR-dataset.
