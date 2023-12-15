@@ -208,7 +208,7 @@ nohup python train.py --model solcv7 --num_classes 8 >> train_<model_name>.out 2
 Please see train.py for details.
 
 ```shell
-python _test.py or python predict.py --model solcv7 --model-path <model_path>
+python predict.py --model solcv7 --model-path <model_path>
 ```
 
 ### Result 
